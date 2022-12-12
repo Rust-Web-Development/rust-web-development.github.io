@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 Allow: /
-Sitemap: https://rustwebdevelopment.com/sitemap.xml
+Sitemap: http://192.168.178.78:8080/sitemap.xml
